@@ -20,6 +20,7 @@ namespace Batch18WinApp
         private void Form1_DoubleClick(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World!");
+            MessageBox.Show("New Branch Added!");
         }
 
         private void button1_Click(object sender, EventArgs e)
